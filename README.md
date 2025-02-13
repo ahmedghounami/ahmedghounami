@@ -2,11 +2,9 @@
 <div class="item">
 <h2 style="color: blue" > 42 Cursus <h2>
  <a href="https://github.com/ahmedghounami/badge42"><img src="https://badge.mediaplus.ma/black/aghounam"  style="margin-right: auto; margin-left: auto; "alt="aghounam's 42 stats"/></a>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 </div>
 <br>
-
-
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 ---
 
