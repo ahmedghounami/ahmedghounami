@@ -1,6 +1,39 @@
+### 📘 How I'd Define Me... Literally
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (ahmed-ghounami(111|nd Li)|https://ghounami.me)" title="👋 Hi there! I'm (ahmedghounami(111|nd Li)|https://aghounam.me)"/>](https://aghounam.me/)
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 33
+     @work = [ 'ARTSVP', 'MangoTree Dev' ]
+     @education = [ 'Georgia Tech MSCS', 'Le Wagon', 'HBX/HBS', 'Georgia Tech BSNRE' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Burritos' ]
+   end
 
+   def languages
+     {
+       human: [ 'English', 'Bengali', 'Portuguese', 'Spanish' ],
+       programming: [ 'Ruby', 'Python', 'Javascript', 'SQL', 'C' ]
+      }
+   end
+
+   def current_location
+     'Lisbon, PT'
+   end
+
+   def next_locations
+     [ 'Chamonix, FR' ]
+   end
+
+   def currently
+     {
+       studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
+       reading: [ 'The Moral Animal', 'Discrete Mathmatics and Its Applications' ],
+       tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
+      }
+   end
+ end
+ ```
 ---
 
 <div class="item">
