@@ -32,7 +32,7 @@
 ## Software:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/Docker-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/Docker-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 ---
