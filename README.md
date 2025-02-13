@@ -4,9 +4,7 @@
  <a href="https://github.com/ahmedghounami/badge42"><img src="https://badge.mediaplus.ma/black/aghounam"  style="margin-right: auto; margin-left: auto; "alt="aghounam's 42 stats"/></a>
 </div>
 <br>
- 
 
----
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
