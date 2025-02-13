@@ -3,34 +3,30 @@
  ```ruby
  class Sy < Person
    def initialize
-     @name = 'Sy Rashid'
-     @age = 33
-     @work = [ 'ARTSVP', 'MangoTree Dev' ]
-     @education = [ 'Georgia Tech MSCS', 'Le Wagon', 'HBX/HBS', 'Georgia Tech BSNRE' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Burritos' ]
+     @name = 'Ahmed Ghounami'
+     @age = 21
    end
 
    def languages
      {
-       human: [ 'English', 'Bengali', 'Portuguese', 'Spanish' ],
-       programming: [ 'Ruby', 'Python', 'Javascript', 'SQL', 'C' ]
+       human: [ 'English', 'arabic'],
+       programming: [ 'C', 'C++', 'Javascript', 'SQL', 'Bash', 'HTML', 'CSS']
       }
    end
 
    def current_location
-     'Lisbon, PT'
+     'Khouribga'
    end
 
    def next_locations
-     [ 'Chamonix, FR' ]
+     [ 'Las Vegas' ]
    end
 
    def currently
      {
-       studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
-       reading: [ 'The Moral Animal', 'Discrete Mathmatics and Its Applications' ],
-       tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
-      }
+       studying: [ '1337 coding school' ],
+       learning: [ 'some Courses from Udemy' ]
+     }
    end
  end
  ```
