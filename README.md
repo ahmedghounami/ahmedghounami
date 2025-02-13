@@ -6,6 +6,11 @@
 <br>
 
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedghounami&show_icons=true&theme=gotham" alt="ahmedghounami" />
+
+ 
 ### About me
 
 - **Student at 1337 coding school** 
