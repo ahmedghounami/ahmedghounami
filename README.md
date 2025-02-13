@@ -5,11 +5,9 @@
 </div>
 <br>
 
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedghounami&show_icons=true&theme=gotham" alt="ahmedghounami" />
-
+<h1 align="center">
+  <img src="https://aghounam.me" alt="My Portfolio" />
+</h1>
  
 ### About me
 
