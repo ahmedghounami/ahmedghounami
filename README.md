@@ -14,6 +14,11 @@
 - **Interests:** Frontend and Backend Development
 - **Certification:** "The common core of the 42 curriculum represents the minimum set of skills to be ready for a first professional experience. It provides basic and standard coding skills, as well as a fruitful range of soft skills."
 
+
+---
+
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
 ---
 
 ## Skills
