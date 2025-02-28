@@ -1,4 +1,4 @@
-### 📘 How I'd Define Me... Literally
+### 📘 How I'd Define Me... 
 
  ```ruby
  class Sy < Person
