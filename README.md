@@ -1,5 +1,7 @@
 ### 📘 How I'd Define Me... 
 
+
+
  ```ruby
  class Sy < Person
    def initialize
