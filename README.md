@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Ghounami
 
-<div align="center">
+<div align="center flex">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Code+Enthusiast;1337+School+Student;Building+Scalable+Applications" alt="Typing SVG" />
 
   <div align="center">
