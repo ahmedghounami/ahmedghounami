@@ -114,6 +114,7 @@ end
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-3DDC84?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
 
@@ -132,41 +133,6 @@ end
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-  
-### 🤖 AIVITA - AI Fitness & Nutrition App
-**2025 - Present** | *Next.js, TypeScript, Fastify, SQLite*
-
-AI-powered web application that generates personalized daily workout and meal plans based on user goals and preferences.
-
----
-
-### 🌐 ft_transcendence - Full-Stack Web Application  
-**2025 - Present** | *Next.js, Fastify, SQLite3, Tailwind CSS*
-
-Complete web application built as part of 1337 curriculum, handling frontend, backend, and database management.
-
----
-
-### 🖥️ Webserv - HTTP Server Implementation
-**2025** | *C++98*
-
-Built an HTTP server from scratch, demonstrating advanced systems programming skills.
-
----
-
-### 🐳 Inception - Docker Infrastructure
-**2024** | *Docker, DevOps*
-
-Containerization infrastructure setup showcasing DevOps and system administration skills.
-
-</div>
-
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -174,9 +140,6 @@ Containerization infrastructure setup showcasing DevOps and system administratio
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedghounami&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedghounami&theme=algolia" alt="ahmedghounami" />
-</div>
 
 ---
 
