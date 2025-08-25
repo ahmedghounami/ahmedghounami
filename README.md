@@ -193,14 +193,7 @@ Containerization infrastructure setup showcasing DevOps and system administratio
   
 ### 💫 "Code is poetry written in logic"
 
-<img src="https://komarev.com/ghpvc/?username=ahmedghounami&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghounami" />
-
 **⭐ Don't forget to star repositories you find interesting! ⭐**
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
