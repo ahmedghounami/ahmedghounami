@@ -4,10 +4,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Code+Enthusiast;1337+School+Student;Building+Scalable+Applications" alt="Typing SVG" />
   <div align="center">
-    <img src="https://i.makeagif.com/media/7-01-2015/8Noduw.gif" width="300" />
-    <a href="https://github.com/ahmedghounami/badge42">
-      <img src="https://badge.mediaplus.ma/black/aghounam" alt="aghounam's 42 stats"/>
-    </a>
+    <img src="https://i.makeagif.com/media/7-01-2015/8Noduw.gif" width="600" />
+   
   </div>
 </div>
 
@@ -130,6 +128,16 @@ end
 | **📚 Udemy** | 2024 - 2025 | Full-Stack Web Development Specialization |
 
 </div>
+
+---
+
+## 🎓 1337 Progress
+
+<div align="center">
+
+ <a href="https://github.com/ahmedghounami/badge42">
+      <img src="https://badge.mediaplus.ma/black/aghounam" alt="aghounam's 42 stats"/>
+    </a>
 
 ---
 
