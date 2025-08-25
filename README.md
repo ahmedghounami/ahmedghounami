@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Problem+Solver+%26+Code+Enthusiast;1337+School+Student;Building+Scalable+Applications" alt="Typing SVG" />
 
   <div align="center">
-    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+<!--     <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" /> -->
     <a href="https://github.com/ahmedghounami/badge42">
       <img src="https://badge.mediaplus.ma/black/aghounam" alt="aghounam's 42 stats"/>
     </a>
