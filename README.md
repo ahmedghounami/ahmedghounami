@@ -7,12 +7,12 @@
   <a href="https://github.com/ahmedghounami/badge42">
     <img src="https://badge.mediaplus.ma/black/aghounam" alt="aghounam's 42 stats"/>
   </a>
-</div>Ï
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 </div>
+</div>
+</div>
+
 
 ---
 
